@@ -101,7 +101,7 @@ function App() {
     };
 
     // 30% chance to make a random move instead of the optimal one
-    if (Math.random() < 0.1) {
+    if (Math.random() < 0.3) {
       const randomMove = makeRandomMove();
       setTimeout(() => handleCellClick(randomMove), 500);
       return;
