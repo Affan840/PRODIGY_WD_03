@@ -46,7 +46,7 @@ This project is a fun and interactive Tic-Tac-Toe game built with React.js as pa
 - Reset the game or start a new game anytime using the provided buttons.
 
 ## Live Preview
-Check out the live preview here: [Tic-Tac-Toe Game](https://tic-tac-toe-game.vercel.app/)
+Check out the live preview here:  https://tic-tac-toe-phi-nine-43.vercel.app/
 
 
 
